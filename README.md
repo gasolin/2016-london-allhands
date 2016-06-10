@@ -1,6 +1,7 @@
 ## 2016/6/6 Taipei -> Dubai
 
-* [Taoyuan Airport](taoyuan_airport.html)
-* [Dubai Airport](dubai_airport.html)
+* [Taoyuan Airport](https://gasolin.github.io/londonww/taoyuan_airport.html)
+* [Dubai Airport](https://gasolin.github.io/londonww/dubai_airport.html)
+* [Airplane in Dubai Airport](https://gasolin.github.io/londonww/dubai_airport_2.html)
 
 ## 2016/6/7 Dubai -> London
