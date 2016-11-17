@@ -6,4 +6,4 @@
 
 ## 2016/6/7 Dubai -> London
 
-* [Paddington Station](https://gasolin.github.io/londonww/Paddington_station.html)
+* [Paddington Station](https://gasolin.github.io/londonww/paddington_station.html)
